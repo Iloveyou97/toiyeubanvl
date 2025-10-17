@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Xem video tungtungtung</title>
+</head>
+<body style="text-align:center; background:#000; color:white;">
+  <h2>🎬 tungtungtung.mp4</h2>
+  <video controls autoplay style="max-width:90%; border-radius:10px;">
+    <source src="tungtungtung.mp4" type="video/mp4">
+    Trình duyệt của bạn không hỗ trợ video.
+  </video>
+</body>
+</html>
